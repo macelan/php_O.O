@@ -9,5 +9,11 @@
 <body>
     <p>Olha eu aqui</p>
     <p>Olha eu aqui</p>
+
+    <?php
+   // $a->x = 5;
+   // var_dump($a);
+   // ?>
+
 </body>
 </html>
